@@ -1,0 +1,15 @@
+D:\GenericsTest\bin\Debug\net6.0\GenericsTest.exe
+D:\GenericsTest\bin\Debug\net6.0\GenericsTest.deps.json
+D:\GenericsTest\bin\Debug\net6.0\GenericsTest.runtimeconfig.json
+D:\GenericsTest\bin\Debug\net6.0\GenericsTest.dll
+D:\GenericsTest\bin\Debug\net6.0\GenericsTest.pdb
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.csproj.AssemblyReference.cache
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.AssemblyInfoInputs.cache
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.AssemblyInfo.cs
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.csproj.CoreCompileInputs.cache
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.dll
+D:\GenericsTest\obj\Debug\net6.0\refint\GenericsTest.dll
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.pdb
+D:\GenericsTest\obj\Debug\net6.0\GenericsTest.genruntimeconfig.cache
+D:\GenericsTest\obj\Debug\net6.0\ref\GenericsTest.dll
