@@ -1,0 +1,15 @@
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.csproj.AssemblyReference.cache
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.AssemblyInfoInputs.cache
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.AssemblyInfo.cs
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.csproj.CoreCompileInputs.cache
+D:\GenericsMaxFloat\bin\Debug\net6.0\GenericsMaxFloat.exe
+D:\GenericsMaxFloat\bin\Debug\net6.0\GenericsMaxFloat.deps.json
+D:\GenericsMaxFloat\bin\Debug\net6.0\GenericsMaxFloat.runtimeconfig.json
+D:\GenericsMaxFloat\bin\Debug\net6.0\GenericsMaxFloat.dll
+D:\GenericsMaxFloat\bin\Debug\net6.0\GenericsMaxFloat.pdb
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.dll
+D:\GenericsMaxFloat\obj\Debug\net6.0\refint\GenericsMaxFloat.dll
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.pdb
+D:\GenericsMaxFloat\obj\Debug\net6.0\GenericsMaxFloat.genruntimeconfig.cache
+D:\GenericsMaxFloat\obj\Debug\net6.0\ref\GenericsMaxFloat.dll
