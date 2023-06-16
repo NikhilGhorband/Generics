@@ -1,0 +1,15 @@
+D:\GenericsMaxMin\bin\Debug\net6.0\GenericsMaxMin.exe
+D:\GenericsMaxMin\bin\Debug\net6.0\GenericsMaxMin.deps.json
+D:\GenericsMaxMin\bin\Debug\net6.0\GenericsMaxMin.runtimeconfig.json
+D:\GenericsMaxMin\bin\Debug\net6.0\GenericsMaxMin.dll
+D:\GenericsMaxMin\bin\Debug\net6.0\GenericsMaxMin.pdb
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.csproj.AssemblyReference.cache
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.AssemblyInfoInputs.cache
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.AssemblyInfo.cs
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.csproj.CoreCompileInputs.cache
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.dll
+D:\GenericsMaxMin\obj\Debug\net6.0\refint\GenericsMaxMin.dll
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.pdb
+D:\GenericsMaxMin\obj\Debug\net6.0\GenericsMaxMin.genruntimeconfig.cache
+D:\GenericsMaxMin\obj\Debug\net6.0\ref\GenericsMaxMin.dll
