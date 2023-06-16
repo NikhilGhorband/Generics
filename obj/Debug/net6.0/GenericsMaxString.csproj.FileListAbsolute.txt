@@ -1,0 +1,15 @@
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.csproj.AssemblyReference.cache
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.AssemblyInfoInputs.cache
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.AssemblyInfo.cs
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.csproj.CoreCompileInputs.cache
+D:\GenericsMaxString\bin\Debug\net6.0\GenericsMaxString.exe
+D:\GenericsMaxString\bin\Debug\net6.0\GenericsMaxString.deps.json
+D:\GenericsMaxString\bin\Debug\net6.0\GenericsMaxString.runtimeconfig.json
+D:\GenericsMaxString\bin\Debug\net6.0\GenericsMaxString.dll
+D:\GenericsMaxString\bin\Debug\net6.0\GenericsMaxString.pdb
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.dll
+D:\GenericsMaxString\obj\Debug\net6.0\refint\GenericsMaxString.dll
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.pdb
+D:\GenericsMaxString\obj\Debug\net6.0\GenericsMaxString.genruntimeconfig.cache
+D:\GenericsMaxString\obj\Debug\net6.0\ref\GenericsMaxString.dll
